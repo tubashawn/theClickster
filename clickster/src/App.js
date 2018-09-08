@@ -6,7 +6,7 @@ import Navbar from "./components/navbar";
 // import Pictogrid from "./components/pictogrid";
 import Jumbotron from "./components/jumbotron";
 import FourEvenColumns from "./components/fourEvenColumns";
-import Image from "./components/buttonImage";
+import Images from "./components/buttonImage";
 
 class App extends Component {
   render() {
@@ -14,7 +14,7 @@ class App extends Component {
       <div className="App">
       <Navbar>
       </Navbar>
-        <Image></Image>
+        <Images></Images>
       <Jumbotron>
         
       </Jumbotron>

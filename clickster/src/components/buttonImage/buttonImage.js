@@ -4,11 +4,11 @@ import u2 from "./images/u2.png";
 import u3 from "./images/u3.png";
 import u4 from "./images/u4.png";
 import u5 from "./images/u5.png";
-import u6 from "./images/u6.png";
-import u7 from "./images/u7.png";
-import u8 from "./images/u8.png";
+import u6 from "./images/u6.jpg";
+import u7 from "./images/u7.jpg";
+import u8 from "./images/u8.jpg";
 import u9 from "./images/u9.png";
-import u10 from "./images/u10.png";
+import u10 from "./images/u10.jpg";
 import u11 from "./images/u11.png";
 import u12 from "./images/u12.png";
 
