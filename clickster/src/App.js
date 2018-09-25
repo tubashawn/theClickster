@@ -1,27 +1,10 @@
-import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Navbar from "./components/navbar";
-// import Image from "./components/buttonImage";
-// import Pictogrid from "./components/pictogrid";
-import Jumbotron from "./components/jumbotron";
-import FourEvenColumns from "./components/fourEvenColumns";
-import Images from "./components/buttonImage";
+import React from "react";
+import Main from "./pages/Main";
 
-class App extends Component {
-  render() {
-    return (
-      <div className="App">
-      <Navbar>
-      </Navbar>
-        <Images></Images>
-      <Jumbotron>
-        
-      </Jumbotron>
-        
-      </div>
-    );
-  }
-}
+const App = () => (
+  <div>
+    <Main />
+  </div>
+);
 
 export default App;
